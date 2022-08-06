@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @preravitch
-- 👀 I’m interested in programming and crypto-currency
+- 👀 I’m interested in programming cyber security and blockchain
 - 🌱 I’m currently learning at SIIT tu / 42cadat KMITL
 - 📫 How to reach me preravitch.s@gmail.com
 
